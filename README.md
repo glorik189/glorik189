@@ -1,7 +1,3 @@
-
-
-
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=glorik189.glorik189&"  />
 </div>
@@ -16,40 +12,7 @@
 
 ###
 
-<p align="left">## My Belief
-
-I firmly believe that **data** is an essential tool for understanding the world around us. When used correctly, it has the potential to address and solve significant challenges across multiple fields in a transversal way.
-
-## What can I contribute?
-
-- **Analytical skills**
-- **Critical thinking**
-- Strong **communication** and **teamwork** abilities.
-
-I have primarily used the following technologies, always with a focus on their practical application to real-world problems:
-
-### Programming
-- **Python** and **R** and their main data-oriented libraries:  
-  - Numpy  
-  - Pandas  
-  - Matplotlib  
-  - Seaborn  
-  - Scikit-Learn  
-
-### Databases
-- **Relational databases**: SQL  
-- **Non-relational databases**: MongoDB  
-
-### Data Visualization
-- **Tableau**  
-- **Power BI**
-
-### Machine Learning
-- Traditional learning models and **Deep learning** models
-
-### NLP  
-### Mathematics and statistics</p>
-
+<p align="left">## I firmly believe that **data** is an essential tool for understanding the world around us. When used correctly, it has the potential to address and solve significant challenges across multiple fields in a transversal way.
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
