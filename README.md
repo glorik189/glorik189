@@ -16,7 +16,39 @@
 
 ###
 
-<p align="left">Creo firmemente que los datos son una herramienta esencial para comprender el mundo que nos rodea. Si se usan correctamente, tienen el potencial de abordar y solucionar importantes desafíos en multitud de campos de una forma transversal.<br><br>¿Qué puedo aportar? Capacidad de análisis, pensamiento crítico y buenas habilidades de comunicación y trabajo en equipo. Principalmente he utilizado las siguientes tecnologías, siempre con el foco en su aplicación práctica en problemas reales. <br><br>• Programación: 𝐏𝐲𝐭𝐡𝐨𝐧 y R y sus principales librerías orientadas a datos: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn<br>• Bases de datos relacionales: 𝐒𝐐𝐋<br>• Bases de datos no relacionales: MongoDB<br>• Visualización de datos: 𝐓𝐚𝐛𝐥𝐞𝐚𝐮, Power BI <br>• Machine Learning: Modelos de aprendizaje tradicionales y modelos de Deep learning.<br>• NLP<br>• Matemáticas y estadística</p>
+<p align="left">## My Belief
+
+I firmly believe that **data** is an essential tool for understanding the world around us. When used correctly, it has the potential to address and solve significant challenges across multiple fields in a transversal way.
+
+## What can I contribute?
+
+- **Analytical skills**
+- **Critical thinking**
+- Strong **communication** and **teamwork** abilities.
+
+I have primarily used the following technologies, always with a focus on their practical application to real-world problems:
+
+### Programming
+- **Python** and **R** and their main data-oriented libraries:  
+  - Numpy  
+  - Pandas  
+  - Matplotlib  
+  - Seaborn  
+  - Scikit-Learn  
+
+### Databases
+- **Relational databases**: SQL  
+- **Non-relational databases**: MongoDB  
+
+### Data Visualization
+- **Tableau**  
+- **Power BI**
+
+### Machine Learning
+- Traditional learning models and **Deep learning** models
+
+### NLP  
+### Mathematics and statistics</p>
 
 ###
 
